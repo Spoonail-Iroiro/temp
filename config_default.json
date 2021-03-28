@@ -1,0 +1,25 @@
+{
+    "config_version": "0.3.0",
+    "save_startup_window_rect": false,
+    "startup_window_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 280,
+        "height": 600
+    },
+    "capture_rect": {
+        "x": 0,
+        "y": 0,
+        "width": 1920,
+        "height": 950
+    },
+    "stay_on_top": false,
+    "copy_to_clipboard": false,
+    "hotkey_settings": {
+        "enabled": false,
+        "hotkeys": [
+            "ctrl",
+            "X"
+        ]
+    }
+}
